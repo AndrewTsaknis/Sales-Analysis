@@ -6,7 +6,18 @@ The goal is to identify key performance insights such as best-selling categories
 
 The analysis includes data cleaning, exploratory data analysis (EDA), and visualizations that highlight relationships between variables such as Sales, Profit, Category, Sub-Category, and Discount.  
 This project is intended for practice with data analysis, Python visualization, and reporting.
+---
+📂 Dataset Location
 
+Make sure the dataset file (e.g., Superstore.csv) is placed in the same folder as the Jupyter notebook or Python script.
+The code expects the file to be located in the project’s root directory.
+
+🔗 Dataset Download
+
+If someone does not have the dataset, they can download it here:
+
+➡️ Superstore Dataset (Kaggle)
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 ---
 
 ## 📊 Visualizations Included
