@@ -32,4 +32,4 @@ The following visualizations were created using Python (Pandas, Matplotlib, Seab
 ## 🛠️ How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AndrewTsaknis/salesanalysis.git
+   git clone https://github.com/AndrewTsaknis/Sales-Analysis.git
