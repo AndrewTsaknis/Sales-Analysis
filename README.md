@@ -22,10 +22,11 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## 📊 Key Insights
 The following visualizations were created using Python (Pandas, Matplotlib, Seaborn):
-<img width="450" height="470" alt="download" src="https://github.com/user-attachments/assets/803f759e-a9cf-4ba8-9dac-18b11e94f154" />
 
 1. **Sales by Category**
  A bar chart showing total sales for each category to compare performance.
+
+<img width="450" height="470" alt="download" src="https://github.com/user-attachments/assets/803f759e-a9cf-4ba8-9dac-18b11e94f154" />
 
 -Technology leads in total sales, indicating strong customer demand for tech products.
 
@@ -34,6 +35,9 @@ The following visualizations were created using Python (Pandas, Matplotlib, Seab
 -This suggests Technology is the most impactful category for driving revenue growth.
 
 2. **Profit vs Sales (Scatter Plot)**
+ Visualizes whether higher sales correlate with higher profitability and highlights category clusters.
+
+<img width="450" height="470" alt="download" src="https://github.com/user-attachments/assets/1c719e99-7763-489b-b053-6e724852978b" />
 
 -There is no strong linear correlation between higher sales and higher profit.
 
@@ -42,6 +46,9 @@ The following visualizations were created using Python (Pandas, Matplotlib, Seab
 -Clusters show that moderate-sale orders tend to be more consistently profitable.
 
 3. **Top 10 Products by Sales**
+  Identifies the products generating the most revenue.
+
+<img width="989" height="590" alt="download" src="https://github.com/user-attachments/assets/d4231844-a88e-432f-bc68-b93c7dc07957" />
 
 -A small group of products contributes a disproportionate amount of revenue.
 
@@ -50,6 +57,9 @@ The following visualizations were created using Python (Pandas, Matplotlib, Seab
 -Focusing marketing, stock availability, and promotions on these products can increase revenue efficiency.
 
 4. **Profit by Sub-Category**
+  Displays which sub-categories contribute most to profitability.
+
+<img width="989" height="590" alt="download" src="https://github.com/user-attachments/assets/ea5f9b84-989f-4a33-86da-b49c51baf81b" />
 
 -Sub-categories such as Copiers, Phones, and Accessories show strong profitability.
 
@@ -58,25 +68,15 @@ The following visualizations were created using Python (Pandas, Matplotlib, Seab
 -This highlights areas where pricing strategy or supplier negotiation may need reevaluation.
 
 5. **Discount Distribution**
-
+   Shows how discounts are distributed across orders and helps evaluate the impact of discounting.
+   
+<img width="790" height="490" alt="download" src="https://github.com/user-attachments/assets/caba8003-4ccf-410e-a47c-ebc8fb5e9fd6" />
+   
 -Most orders have very low discounts, but there are noticeable spikes at higher discount levels.
 
 -High discounts correlate strongly with reduced profit, and many high-discount orders lead to losses.
 
 -This suggests tightening discount policies could significantly improve financial performance.
-
-
-2. **Profit vs Sales (Scatter Plot)**  
-   Visualizes whether higher sales correlate with higher profitability and highlights category clusters.
-
-3. **Top 10 Products by Sales**  
-   Identifies the products generating the most revenue.
-
-4. **Profit by Sub-Category**  
-   Displays which sub-categories contribute most to profitability.
-
-5. **Discount Distribution**  
-   Shows how discounts are distributed across orders and helps evaluate the impact of discounting.
 
 ---
 
