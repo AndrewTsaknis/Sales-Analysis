@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## 📊 Key Insights
 The following visualizations were created using Python (Pandas, Matplotlib, Seaborn):
-<img width="721" height="470" alt="download" src="https://github.com/user-attachments/assets/803f759e-a9cf-4ba8-9dac-18b11e94f154" />
+<img width="450" height="470" alt="download" src="https://github.com/user-attachments/assets/803f759e-a9cf-4ba8-9dac-18b11e94f154" />
 
 1. **Sales by Category**
  A bar chart showing total sales for each category to compare performance.
