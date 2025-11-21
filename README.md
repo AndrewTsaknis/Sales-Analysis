@@ -20,7 +20,48 @@ Superstore Dataset (Kaggle):
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 ---
 
-## 📊 Visualizations Included
+## 📊 Key Insights
+1. *Sales by Category*
+
+-Technology leads in total sales, indicating strong customer demand for tech products.
+
+-Furniture and Office Supplies follow but with noticeably lower revenue.
+
+-This suggests Technology is the most impactful category for driving revenue growth.
+
+2. Profit vs Sales (Scatter Plot)
+
+There is no strong linear correlation between higher sales and higher profit.
+
+Some high-sales orders result in negative profit, often due to large discounts or high shipping costs.
+
+Clusters show that moderate-sale orders tend to be more consistently profitable.
+
+3. Top 10 Products by Sales
+
+A small group of products contributes a disproportionate amount of revenue.
+
+These top performers are mostly in Technology and Furniture.
+
+Focusing marketing, stock availability, and promotions on these products can increase revenue efficiency.
+
+4. Profit by Sub-Category
+
+Sub-categories such as Copiers, Phones, and Accessories show strong profitability.
+
+Others — especially Tables, Bookcases, and Binders — frequently produce negative or low profit.
+
+This highlights areas where pricing strategy or supplier negotiation may need reevaluation.
+
+5. Discount Distribution
+
+Most orders have very low discounts, but there are noticeable spikes at higher discount levels.
+
+High discounts correlate strongly with reduced profit, and many high-discount orders lead to losses.
+
+This suggests tightening discount policies could significantly improve financial performance.
+
+📊 Visualizations Included
 The following visualizations were created using Python (Pandas, Matplotlib, Seaborn):
 
 1. **Sales by Category**  
